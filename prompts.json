@@ -48,5 +48,55 @@
         "character": "Elven Ranger",
         "location": "in an enchanted forest",
         "style": "Watercolor"
+    },
+    {
+        "character": "Alien Scientist",
+        "location": "in a futuristic lab",
+        "style": "Sci-Fi Art"
+    },
+    {
+        "character": "Detective",
+        "location": "in a noir cityscape",
+        "style": "Film Noir"
+    },
+    {
+        "character": "Gothic Vampire",
+        "location": "in a Victorian mansion",
+        "style": "Gothic Art"
+    },
+    {
+        "character": "Witch",
+        "location": "casting a spell in a dark forest",
+        "style": "Dark Fantasy"
+    },
+    {
+        "character": "Robot",
+        "location": "exploring an abandoned space station",
+        "style": "Sci-Fi Art"
+    },
+    {
+        "character": "Knight",
+        "location": "in a mythical castle",
+        "style": "Medieval Fantasy"
+    },
+    {
+        "character": "Ninja",
+        "location": "in a cyberpunk dystopia",
+        "style": "Cyber Ninja Art"
+    },
+    {
+        "character": "Cowboy",
+        "location": "in a wild west town",
+        "style": "Epic Western"
+    },
+    {
+        "character": "Pharaoh",
+        "location": "in an ancient Egyptian palace",
+        "style": "Historical Art"
+    },
+    {
+        "character": "Space Explorer",
+        "location": "on a distant planet",
+        "style": "Astral Art"
     }
 ]
